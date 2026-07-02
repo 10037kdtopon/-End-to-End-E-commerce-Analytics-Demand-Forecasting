@@ -85,13 +85,11 @@ Ecommerce_Analytics_Portfolio/
 
 
 <img width="1913" height="897" alt="image" src="https://github.com/user-attachments/assets/5f34ed84-51ce-4ff2-a4ec-ca5403bb4de9" />
+<img width="1918" height="941" alt="image" src="https://github.com/user-attachments/assets/acaf6cc2-a925-4077-b601-67cd272b0ce4" />
+
 
 📈 Resultados (Basados en los gráficos)
 
 Análisis de Categorías: Se identificó que la categoría de Electrónica (o la categoría más alta en tu gráfico) representa el mayor porcentaje de los ingresos totales, demostrando ser el pilar financiero del negocio.
 Tendencias Mensuales: El gráfico de línea evidenció picos de ventas en ciertos meses (como a final de año), lo que permite al equipo de inventario prepararse mejor para la alta demanda estacional.
 Segmentación de Usuarios (IA): El modelo logró clasificar exitosamente la base de datos en 4 grupos clave, logrando separar con precisión a los clientes de alto valor (VIP) de aquellos que llevan meses sin comprar (At Risk).
-
-
-<img width="1918" height="941" alt="image" src="https://github.com/user-attachments/assets/acaf6cc2-a925-4077-b601-67cd272b0ce4" />
-
